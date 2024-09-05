@@ -41,8 +41,8 @@ let SkillIcons = [
   "./media/html.png",
   "./media/css.png",
   "./media/bootstrap.png",
-  "./media/git.png",
-  "./media/js.png",
+  "./media/Git.png",
+  "./media/JS.png",
   "./media/python.webp",
   
 ]
